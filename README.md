@@ -3,8 +3,6 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<img align="left" src="https://media0.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="200" height="200"/>
-
 I'm a passionate Software Enginner, currently living in Brasil! Over a decade of experience working as a Software Engineer, I've been involved in building scalable, distributed systems, microservices, and cloud-native applications using Java, Golang and PHP. My expertise also extends to optimizing performance, designing robust architectures, and contributing to open-source in my free time. I enjoy working in collaborative teams, I like to research and learn new technologies, furthermore I am always looking for innovation and professional growth.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusfar&label=Profile%20views&color=0e75b6&style=flat" alt="jesusfar" /> </p>
