@@ -1,11 +1,9 @@
-# [Jesus Farfan](https://www.linkedin.com/in/jesusfar/)
-
-
-<h1 align="center">Hi there 👋</h1>
-
-<img align="right" src="https://media0.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"/>
-
-I'm a passionate Software Enginner, currently living in Brasil! Over a decade of experience working as a Software Engineer, I've been involved in building scalable, distributed systems, microservices, and cloud-native applications using Java, Golang and PHP. My expertise also extends to optimizing performance, designing robust architectures, and contributing to open-source in my free time. I enjoy working in collaborative teams, I like to research and learn new technologies, furthermore I am always looking for innovation and professional growth.
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo17138
+Fork on GitHub4895
+<h1 align="center">Hi there 👋, I'm Jesus Farfan</h1>
+<h3 align="center">A passionate Software Enginner from Bolivia, currently living in Brasil! Over a decade of experience working as a Software Engineer, throughout my career, I've been involved in building scalable, distributed systems, microservices, and cloud-native applications using Java and Golang. My expertise also extends to optimizing performance, designing robust architectures, and contributing to open-source in my free time. I enjoy working in collaborative teams, I like to research and learn new technologies, furthermore I am always looking for innovation and professional growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusfar&label=Profile%20views&color=0e75b6&style=flat" alt="jesusfar" /> </p>
 
@@ -21,6 +19,7 @@ I'm a passionate Software Enginner, currently living in Brasil! Over a decade of
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jesusfar/](https://www.linkedin.com/in/jesusfar/)
 
+- ⚡ Fun fact **During covid-19 I was living in SC/Brazil because the lock-down.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,3 +38,27 @@ I'm a passionate Software Enginner, currently living in Brasil! Over a decade of
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesusfar&" alt="jesusfar" /></p>
 
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
