@@ -9,7 +9,7 @@ I'm a passionate Software Engineer, currently living in Brasil! Over a decade of
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesusfar" alt="jesusfar" /></a> </p>
 
-- 🔭 I’m currently working as Software Architect at Triceps MDA [Reconquer App](https://tricepsmda.com/)
+- 🔭 I’m currently working as Software Enginner at [Stone Co.](https://www.stone.com.br/)
 
 - 🌱 I’m currently studing for **AWS certifications**
 
